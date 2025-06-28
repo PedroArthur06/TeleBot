@@ -1,0 +1,17 @@
+{
+    "Bruschetta": {
+        "image_path": "bruschetta.jpg",
+        "description": "Fatias de pao tostado com uma mistura deliciosa de tomates frescos, manjericao, alho e azeite de oliva.",
+        "price": "R$ 25,00"
+    },
+    "Salada Caprese": {
+        "image_path": "salada caprese.jpg",
+        "description":"Uma salada clássica italiana, composta por fatias de tomate fresco, mussarela de bufala e folhas de manjericao, tudo temperado com azeite de oliva extra virgem e uma pitada de sal.",
+        "price": "R$ 30,00"
+    },
+    "Macarrão com camarão": {
+        "image_path": "macarrao.jpg",
+        "description":"Massa al dente, combinada com camaroes suculentos salteados no azeite de oliva e alho, finalizados com um toque de limão siciliano e ervas frescas.",
+        "price": "R$ 40,00"
+    }
+}
